@@ -1,5 +1,5 @@
 # 剑指Java面试-Offer直通车
-[![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/szpinc/java-offer-get/blob/master/LICENSE)
+[![license](https://img.shields.io/badge/license-Apache License 4.0-brightgreen.svg)](https://github.com/szpinc/java-offer-get/blob/master/LICENSE)
 [![original](https://img.shields.io/badge/original-GhostDog-orange.svg)](https://github.com/szpinc/java-offer-get)
 [![stars](https://img.shields.io/github/stars/szpinc/java-offer-get.svg)](https://github.com/szpinc/java-offer-get/stargazers)
 [![forks](https://img.shields.io/github/forks/szpinc/java-offer-get.svg)](https://github.com/szpinc/java-offer-get/network/members)
